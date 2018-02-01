@@ -14,7 +14,7 @@
     <properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-		<guava.version>18.0</guava.version>
+		<guava.version>17.0</guava.version>
 	</properties>
 
 	<developers>
@@ -71,7 +71,7 @@
         <dependencies>
         	<dependency>
 				<groupId>com.google.guava</groupId>
-				<artifactId>guava</artifactId>
+				<artifactId>guava-jdk5</artifactId>
 				<version>${guava.version}</version>
 			</dependency>
         </dependencies>

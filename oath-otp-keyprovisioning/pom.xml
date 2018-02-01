@@ -16,7 +16,7 @@
     <dependencies>
         <dependency>
             <groupId>com.google.guava</groupId>
-            <artifactId>guava</artifactId>
+            <artifactId>guava-jdk5</artifactId>
         </dependency>
         
         <!-- QR Code support -->
